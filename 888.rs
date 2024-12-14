@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/fair-candy-swap/solutions/2888042/math-behind-lee215-s-solution/
 use std::collections::HashSet;
 
 impl Solution {
